@@ -1,0 +1,63 @@
+.caja-1
+{
+	position: relative;
+	left: -50px;
+	bottom:100xp;
+	top: 860px ;
+}
+.caja-2
+{
+	position: relative;
+	left: 400px;
+	bottom: 500px;
+	top: 860px;
+}
+.caja-3
+{
+	position: relative;
+	left: 200px;
+	bottom:500px ;
+	top: 1500px;
+}
+.caja-4
+{
+	position: relative;
+	left: -650px;
+	bottom:100xp ;
+	top: 1500px;
+}
+
+
+.cabecera
+{
+	background-color: white	;
+	color: black;
+	text-align: center;
+	padding: 20px 0;
+	position: fixed;
+	width: 100%;
+}
+#black{
+	position: relative;
+	left: 180px;
+	bottom: 200px;
+	top: 755px;
+}
+#blak{
+	position: relative;
+	left: 450px;
+	bottom: 200px;
+	top: 120px;
+}
+#ey{
+	position: relative;
+	left: -520px;
+	bottom: 200px;
+	top: 120px;
+}
+#malo{
+	position: relative;
+	left: -250px;
+	bottom: 200px;
+	top: 750px;
+}
